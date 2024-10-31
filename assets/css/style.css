@@ -1,0 +1,10 @@
+.rlc-settings {
+  font-size: 14px !important;
+  font-weight: 600;
+}
+
+.rlc-settings #rlc-script {
+  resize: none;
+  outline: none;
+  overflow: auto;
+}
